@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/5gyv6n7305c2jjpx/branch/main?svg=true)](https://ci.appveyor.com/project/bombik815/ra-events-layouts/branch/main)
 
 [Расположение товаров](https://bombik815.github.io/ra-events-layouts/)
 
